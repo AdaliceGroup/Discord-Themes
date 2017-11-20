@@ -7,7 +7,7 @@ Scroll Down to custom CSS and just copy the raw from one of our themes > Click u
 Done.
 
 Features:
-Uses https://betterdocs.net/themes forked theme stems, with live updates. Live updates.
+Uses https://betterdocs.net/themes forked theme stems, with live updates. Live fareaking updates!
 
 Also:
 Use https://giphy.com/ for backgrounds or source your own with https://imgur.com/
