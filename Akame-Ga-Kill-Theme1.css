@@ -1,11 +1,5 @@
-//META{"name":"NotAnotherAnimeThemeSCSL","description":"Anime theme made by WhatDaPuck#2080 | Single Column Server List","author":"WhatDaPuck#2080","version":"1.0"}*//{}
+//META{"name":"Discord-Themes","description":"live import/fork by WhatDaPuck#2080","author":"Nix","forked version":"3.0"}*//{}
 @import url(https://gitcdn.xyz/repo/WhatDaPuck/NotAnotherAnimeTheme/master/css/NotAnotherAnimeThemeSCSL.css);
-
-
-/*      THIS THEME IS THE SAME AS THE ORIGINAL EXCEPT IT HAS A SINGLE COLUMN FOR SERVERS INSTEAD OF TWO                                                 */
-/*      IF YOU WANT THE ORIGINAL GO TO THIS LINK -> https://github.com/WhatDaPuck/NotAnotherAnimeTheme/blob/master/NotAnotherAnimeTheme.theme.css       */
-
-
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=app] {
@@ -21,6 +15,18 @@
 /*THIS CHANGES THE COLOR OF THE SCROLLBAR*/
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
     border-left-color: rgba(81, 150, 255, 0.9) !important;
+}
+
+[class~=private-channels] [class~=channel]:hover a {
+    background-color: rgba(81, 150, 255, 0.9);
+}
+/*THIS CHANGES THE COLOR OF THE HOVER on the Guild Channels*/
+[class~=guilds-wrapper] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
+    background: #E0FFFF !important;
+}
+
+[class~=guild-header] header {
+    color: #E0FFFF;
 }
 
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
