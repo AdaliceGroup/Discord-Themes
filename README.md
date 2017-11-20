@@ -31,6 +31,6 @@ DBZ-THEME-gif
 
 
 
-Graffiti-THEME-gif
+Graffiti-THEME-static
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Graff-Theme.PNG)
