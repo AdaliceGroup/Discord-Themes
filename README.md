@@ -28,3 +28,9 @@ AKAME_GA_KILL-THEME-gif
 DBZ-THEME-gif
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/DBZ-theme.PNG)
+
+
+
+Graffiti-THEME-gif
+
+![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Graff-Theme.PNG)
