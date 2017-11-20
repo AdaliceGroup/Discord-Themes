@@ -13,6 +13,9 @@ Also:
 Use https://giphy.com/ for backgrounds or source your own with https://imgur.com/
 Color Changes made decently easy just read the comment above to see what is changed.
 
+
+I will Be updating the the themes contantly =P
+
 HACKER-THEME-
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Hacker-Theme.PNG)
