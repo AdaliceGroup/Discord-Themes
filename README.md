@@ -16,3 +16,7 @@ Color Changes made decently easy just read the comment above to see what is chan
 HACKER-THEME-
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Hacker-Theme.PNG)
+
+AKAME_GA_KILL-THEME-
+
+![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Akame-ga-kill-theme.PNG)
