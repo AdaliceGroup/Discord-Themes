@@ -1,10 +1,5 @@
-//META{"name":"MiniThemes","description":"live import/fork by WhatDaPuck#2080 | Single Column Server List","author":"Nix","version":"3.0"}*//{}
+//META{"name":"Discord-Themes","description":"live import/fork by WhatDaPuck#2080","author":"Nix","forked version":"3.0"}*//{}
 @import url(https://gitcdn.xyz/repo/WhatDaPuck/NotAnotherAnimeTheme/master/css/NotAnotherAnimeThemeSCSL.css);
-
-
-/*      THIS THEME IS THE SAME AS THE ORIGINAL EXCEPT IT HAS A SINGLE COLUMN FOR SERVERS INSTEAD OF TWO                                                 */
-/*      IF YOU WANT THE ORIGINAL GO TO THIS LINK -> https://github.com/WhatDaPuck/NotAnotherAnimeTheme/blob/master/NotAnotherAnimeTheme.theme.css       */
-
 
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
@@ -28,16 +23,17 @@
 [class~=private-channels] [class~=channel]:hover a {
     background-color: rgba(5, 255, 0, 0.9);
 }
+/*THIS CHANGES THE COLOR OF THE HOVER on the Guild Channels*/
 [class~=guilds-wrapper] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
     background: #00FF00 !important;
 }
 
 [class~=guild-header] header {
-    color: #ddd;
+    color: #00FF00;
 }
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
-    background-image: url(https://media.giphy.com/media/q2d3QYzoUA3Ze/giphy.gif)
+    background-image: url(https://media.giphy.com/media/yi1kyaieFi40M/giphy.gif)
 }
 
 
