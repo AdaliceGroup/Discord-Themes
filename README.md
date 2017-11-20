@@ -12,3 +12,4 @@ Uses https://betterdocs.net/themes forked theme stems, with live updates. Live f
 Also:
 Use https://giphy.com/ for backgrounds or source your own with https://imgur.com/
 Color Changes made decently easy just read the comment above to see what is changed.
+![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Hacker-Theme.PNG)
