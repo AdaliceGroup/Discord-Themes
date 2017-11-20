@@ -23,3 +23,7 @@ HACKER-THEME-
 AKAME_GA_KILL-THEME-
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Akame-ga-kill-theme.PNG)
+
+DBZ-THEME-
+
+![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/DBZ-theme.PNG)
