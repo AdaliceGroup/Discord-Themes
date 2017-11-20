@@ -34,3 +34,7 @@ DBZ-THEME-gif
 Graffiti-THEME-static
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Graff-Theme.PNG)
+
+Galaxy-THEME-gif-trippy
+
+![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Galaxy-theme.PNG)
