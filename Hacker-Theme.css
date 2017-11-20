@@ -9,7 +9,7 @@
 
 /*EDIT THIS TO CHANGE THE BACKGROUND, I RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=app] {
-    background: url(https://media.giphy.com/media/mwOein9vVjBLO/giphy.gif) !important;
+    background: url(https://media.giphy.com/media/fVY0d5fm6UnPG/giphy.gif) !important;
     background-size: cover !important;
 }
 
@@ -24,11 +24,23 @@
 [class~=scroller-wrap] [class~=scroller]::-webkit-scrollbar-thumb {
     border-left-color: rgba(5, 255, 0, 0.9) !important;
 }
+
+[class~=private-channels] [class~=channel]:hover a {
+    background-color: rgba(5, 255, 0, 0.9);
+}
+[class~=guilds-wrapper] [class~=guilds] [class~=guild] [class~=guild-inner]:hover {
+    background: #00FF00 !important;
+}
+
+[class~=guild-header] header {
+    color: #ddd;
+}
+
+
 /*EDIT THIS TO CHANGE THE FRIENDS ICON IMAGE, I WOULD RECOMMEND USING IMGUR TO HOST YOUR IMAGE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
     background-image: url(https://media.giphy.com/media/q2d3QYzoUA3Ze/giphy.gif)
 }
-
 
 /*IF YOU DON'T WANT A CUSTOM FRIENDS ICON JUST REMOVE THIS BIT OF CODE*/
 [class~=guilds-wrapper] [class~=guilds] [class~=friends-icon] {
