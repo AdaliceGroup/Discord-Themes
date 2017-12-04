@@ -3,7 +3,7 @@ Themes for discord by nix done the easy way.
 
 
 First install https://betterdiscord.net/home/
-Then go into the discord settings, now scroll Down to "custom CSS" and just copy the raw from one of our themes > Click update > Click save. Then Click ESC (X). at the top right.
+Then go into the discord settings by clicking the gear button next to your name on the bottom left, now scroll Down to "custom CSS" and just copy and paste the raw from one of our themes > Click update > Click save. Then Click ESC (X). at the top right.
 
 That's it, Done.
 
