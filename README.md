@@ -42,3 +42,7 @@ Galaxy-THEME-gif-trippy
 Duelyst-Theme
 
 ![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Duelyst-theme.PNG)
+
+DVA-theme
+
+![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/DVA-theme.PNG)
