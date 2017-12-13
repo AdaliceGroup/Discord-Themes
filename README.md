@@ -46,3 +46,7 @@ Duelyst-Theme
 DVA-theme
 
 ![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/DVA-theme.PNG)
+
+Wolf-Theme
+
+![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Wolf-theme.PNG)
