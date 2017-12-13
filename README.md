@@ -38,3 +38,7 @@ Graffiti-THEME-static
 Galaxy-THEME-gif-trippy
 
 ![ScreenShot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Galaxy-theme.PNG)
+
+Duelyst-Theme
+
+![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Duelyst-theme.PNG)
