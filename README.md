@@ -50,3 +50,7 @@ DVA-theme
 Wolf-Theme
 
 ![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Wolf-theme.PNG)
+
+Anime-Graffiti-Theme
+
+![Screenshot](https://github.com/AdaliceGroup/Discord-Themes/blob/master/images/Anime-Graffiti-theme.PNG)
